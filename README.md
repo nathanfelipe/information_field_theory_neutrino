@@ -105,6 +105,8 @@ Contributions to this repository are welcome and encouraged! If you’re interes
 
 Special thanks to Professor Torsten A. Enßlin for the invitation to the “Signal Reconstruction with Python” workshop, which inspired the initial concept for this project. Gratitude is also extended to the students who contributed to the workshop’s organization and offered mentorship to participants. Your support and insights have been invaluable to the development of this work.
 
+A lot of the material developed here is largely based on the workshop mentioned above. If you are interested on this methodology, I would strong encourage you to contact the professor Torsten or his team (https://wwwmpa.mpa-garching.mpg.de/~ensslin/index.html).  
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
